@@ -1,7 +1,10 @@
-# Whiteboard
+# draw-app - Exe 1 & 2
 
-Before executing server.js, you must write the following command in your terminal:
+# Intro
 
-    npm install
+Projet dans le cadre du cours Web Application Architectures. Vous pourrez trouver le sujet auquel répond ce repertoire sur le github [Robderon](https://github.com/robderon/WebApplicationArchitectures/blob/master/WAA-project-2021.md) intitulés 1 et 2.
 
-so that it will download all the node_modules
+Pour lancer ce projet il vous faudra lancer une base de donnée MongoDB et changer dans server.js l'adresse correspondante. Enfin, build le dockerfile pour lancer l'application.
+
+
+Vous pourrez trouver cette application à cette adresse : [https://app-waa.herokuapp.com](https://app-waa.herokuapp.com)
